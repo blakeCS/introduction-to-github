@@ -4,7 +4,7 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
-![Course Banner](https://ibb.co/gvh93CC)
+![Course Banner](https://i.ibb.co/vsRqH88/Github-Classroom.png)
 
 # Introduction to GitHub
 
